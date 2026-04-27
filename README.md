@@ -20,8 +20,11 @@ This project is the implementation of **Task 1** for the Elevance Skills interns
 
 ## 📸 Demonstration
 
-![ChatBot UI (1)](assets\Chat_Demo_1.png)
-![ChatBot UI (2)](assets\Chat_Demo_2.png)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1467c9c8-f1e3-42b5-9ef5-7da1423aca4f" />
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/38d59ba8-2460-4857-b40c-26e7d3f76364" />
+
 
 *Streamlit interface responding to queries based on dynamically ingested files.*
 
