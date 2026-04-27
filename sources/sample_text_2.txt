@@ -1,5 +1,0 @@
-A vector database stores chunks of text as numerical vectors (embeddings).
-These vectors are computed using sentence‑embedding models such as all‑MiniLM‑L6‑v2.
-When a user asks a question, the system converts the question into a vector and searches for the most similar vectors in the database.
-This technique is called semantic search and is the backbone of RAG (Retrieval‑Augmented Generation) systems.
-Vector databases like FAISS enable fast similarity search even over large document collections.

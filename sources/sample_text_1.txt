@@ -1,4 +1,0 @@
-A chatbot is a software application designed to simulate human conversation.
-It can interact with users through text or voice, answering questions, providing explanations, and guiding users through tasks.
-Modern chatbots often use large language models (LLMs) and retrieval‑augmented generation (RAG) to provide accurate, up‑to‑date answers.
-Chatbots are widely used in customer support, education, healthcare, and e‑commerce.

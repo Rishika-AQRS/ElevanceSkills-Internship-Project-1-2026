@@ -1,7 +1,0 @@
-FAISS is a library developed by Facebook (Meta) for efficient similarity search and clustering of dense vectors.
-In an RAG chatbot, FAISS is used to store embeddings of text chunks from documents or FAQs.
-When a question arrives, the system:
-1. Embeds the query.
-2. Uses FAISS to find the most similar document chunks.
-3. Sends those chunks along with the query to a large language model (LLM) to generate a natural‑language answer.
-This architecture separates knowledge storage (FAISS) from answer generation (LLM), allowing the chatbot to be updated simply by updating the vector database.
