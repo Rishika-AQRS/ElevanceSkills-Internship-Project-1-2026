@@ -1,9 +1,7 @@
-# ElevanceSkills-Internship-Project-1-2026
-Internship project repository featuring a suite of LLM-based applications (Project: Learn to Build a Real-Time Gen AI Customer Service Bot), including RAG-based knowledge-updatable chatbots, multi-modal systems, and domain-specific expert agents. Built using Python, LangChain, FAISS, and Gemini
 
-# 🚀 Internship Project: Knowledge-Updatable Chatbot (Vector Database)
+# 🚀 Task 1: Knowledge-Updatable Chatbot (Vector Database)
 
-This project is the implementation of **Task 1** for the Elevance Skills internship. It features a RAG (Retrieval-Augmented Generation) pipeline that allows the chatbot to dynamically update its knowledge base using local text sources.
+This Folder is the implementation of **Task 1** for the Elevance Skills internship. It features a RAG (Retrieval-Augmented Generation) pipeline that allows the chatbot to dynamically update its knowledge base using local text sources.
 
 ---
 
